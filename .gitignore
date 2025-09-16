@@ -14,5 +14,5 @@ iesm/Exercises/*.molden_normal_modes
 iesm/Exercises/Ex*/*.molden_normal_modes
 iesm/Exercises/*.vibrec
 iesm/Exercises/Ex*/*.vibrec
-
+reports/
 
